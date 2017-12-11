@@ -1,6 +1,6 @@
 # Shopping_Cart/Mongodb
 
-# This project is under process of devlopment so here by i am uploading what ever done.
+# This project is under process of devlopment so here by i am uploading what ever is done.
 
 This project requires a vendor files 
 Steps to download vendor files
