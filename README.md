@@ -1,6 +1,17 @@
 # Shopping_Cart/Mongodb
 
-# This project is under process of devlopment so here by i am uploading what ever done
+# This project is under process of devlopment so here by i am uploading what ever done.
+
+This project requires a vendor files 
+Steps to download vendor files
+//go to link download this file and install it
+https://getcomposer.org/Composer-Setup.exe
+
+after installing create a folder in htdocs and open this folder in command prompt and run below command 
+
+// composer require mongodb/mongodb="^1.0.0"
+
+
 
 The main objective of the Shopping Cart System is to manage the details of Cart, Orders, Payment, Customer, Category. It manages all the information about Cart, Products, Category, Cart. 
 
