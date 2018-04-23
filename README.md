@@ -1,7 +1,5 @@
 # Shopping_Cart/Mongodb
 
-# This project is under process of devlopment so here by i am uploading what ever is done.
-
 This project requires a vendor files 
 Steps to download vendor files
 //go to link download this file and install it
